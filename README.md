@@ -239,12 +239,4 @@ Este projeto é de código aberto e está disponível sob a licença ISC.
 
 ## 👤 Autor
 
-Desenvolvido como parte do desafio técnico de QA Automation.
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, abra uma issue no repositório.
-
----
-
-⭐ Se este projeto foi útil, considere dar uma estrela!
+Desenvolvido por Lincon Vinicius como parte do desafio técnico de QA Automation.
